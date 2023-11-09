@@ -1,26 +1,26 @@
 # Skyrim SE Ultimate Modding Guide - Français
 
-## Introduction
+## Notes importantes
 
-### Notes importantes
+Salut, je suis Yoan, lanceur du projet de traduction du guide officiel de Sinitar Gaming. Voici le guide original en anglais : [Skyrim SE Ultimate Modding Guide](https://www.sinitargaming.com/skyrim_se.html)
 
-Salut, je suis Yoan lanceur du projet de traduction du guide officiel de Sinitar Gaming.
-
-Certains termes seront utilisés en anglais pour garder une meilleure cohérence et compréhension.
+Certains termes seront utilisés en anglais pour garder une meilleure cohérence et compréhension comme le mot "gameplay".
 
 J'ai eu son autorisation pour réaliser la traduction de ce guide et trouver les équivalents français des mods proposés.
 
-Sinitar ne peut PAS s'occuper du support des mods en version FR dans ce guide en cas de problèmes.
-
-Je ne garantie PAS le fonctionnement des mods en version FR, ni leur compatibilité avec les mods d'origines du guide.
+> ⚠️ Sinitar ne peut PAS s'occuper du support des mods en version FR dans ce guide en cas de problèmes.
+>
+> ⚠️ Je ne garantie PAS le fonctionnement des mods en version FR, ni leur compatibilité avec les mods d'origines du guide.
 
 Bonne lecture !
+
+## Introduction
 
 ### À propos de ce guide
 
 Ce guide est le frère de mes guides sur les [graphismes](https://www.sinitargaming.com/skyrim_graphics.html) et le [gameplay](https://www.sinitargaming.com/skyrim_gameplay.html) de Skyrim LE, unifié en un seul - et le résultat de nombreux mois de modding de Skyrim. Mon objectif est de créer un guide complet pour économiser le temps des autres, afin qu'ils puissent disposer d'une liste de base complète de mods pour des graphismes ultraréalistes et un gameplay exigeant et avant-gardiste, en sachant l'impact de ces mods sur la performance et dans quel ordre les installer, quels mods sont compatibles et lesquels ne le sont pas, etc. Skyrim a plus de 100 mille mods disponibles et c'est un véritable défi de tous les vérifier, mais j'ai consacré du temps à cela, et j'ai sélectionné presque tout ce dont vous avez besoin pour transformer votre jeu, ainsi que des variantes de mods similaires parmi lesquels choisir. Liste de plus de 4500 mods (mais dans une optique de "qualité plutôt que quantité", incluant différentes variantes au choix) à installer pour que vos graphismes Skyrim aient un aspect nextgen et que le gameplay soit à un niveau absolument supérieur - le tout structuré de façon adéquate pour que vous puissiez créer des configurations de 50 à 1500 mods, selon votre objectif. Ordre d'installation, notes sur la performance, liste des patches et recommandations personnelles inclus.
 
-Ce guide couvre à la fois les aspects graphiques et gameplay, deux en un. Pour l'installation des mods graphiques, l'[ordre d'installation] importe le plus - donc, pour de meilleurs résultats, il est humblement recommandé de suivre le même ordre que celui listé pour les mods. Pour le guide de gameplay, l'ordre d'installation importe peu, mais l'ordre de chargement oui, donc lisez attentivement les pages des mods/mes propres notes si vous utilisez un préréglage. Vous pouvez aussi consulter les vidéos sur ma chaîne YouTube pour voir à quoi ressemble le jeu entièrement moddé. Pour simplifier la navigation dans le guide, j'ai placé les sections du guide dans ce qu'on appelle des "spoilers" - quand vous voyez le bouton "Afficher" - cliquez dessus pour développer le groupe de mods correspondant. Cliquez sur "Masquer" pour le fermer :) Notez aussi que ce guide est conçu pour des configurations modernes - cependant, il contient également une section pour des configurations moins performantes, et de nombreux autres conseils ici et là, ainsi que des mods gourmands en ressources marqués - ainsi, vous pouvez construire la configuration ultime pour votre propre PC, quelle que soit sa puissance.
+Ce guide couvre à la fois les aspects graphiques et gameplay, deux en un. Pour l'installation des mods graphiques, l'[ordre d'installation] importe le plus - donc, pour de meilleurs résultats, il est humblement recommandé de suivre le même ordre que celui listé pour les mods. Pour le guide de gameplay, l'ordre d'installation importe peu, mais l'ordre de chargement oui, donc lisez attentivement les pages des mods/mes propres notes si vous utilisez un préréglage. Vous pouvez aussi consulter les vidéos sur ma chaîne YouTube pour voir à quoi ressemble le jeu entièrement moddé. Pour simplifier la navigation dans le guide, j'ai placé les sections du guide dans ce qu'on appelle des "spoilers" - quand vous voyez le bouton "Développer" - cliquez dessus pour développer le groupe de mods correspondant. Cliquez sur "Développer" pour le fermer :) Notez aussi que ce guide est conçu pour des configurations modernes - cependant, il contient également une section pour des configurations moins performantes, et de nombreux autres conseils ici et là, ainsi que des mods gourmands en ressources marqués - ainsi, vous pouvez construire la configuration ultime pour votre propre PC, quelle que soit sa puissance.
 
 Mais voici une autre partie passionnante ! Le guide propose également ce qu'on appelle des "modules" - des listes de mods préétablies (à ne pas confondre avec des packs de mods, s'il vous plaît) pour différents goûts et objectifs - que vous n'avez qu'à reproduire, sans vous soucier des incompatibilités et autres problèmes. Les modules conviendront parfaitement à ceux qui n'ont pas assez de temps libre pour parcourir tout le guide par eux-mêmes.
 
@@ -75,7 +75,7 @@ TODO: complete FAQ
 ![how to start](https://i.imgur.com/rivUQAd.png)
 
 <details>
-<summary>CLIQUE ICI</summary>
+<summary>Développer</summary>
 
 ### Avant de commencer à lire, regarde cette vidéo (YouTube)
 
@@ -86,3 +86,5 @@ TODO: complete FAQ
 ## Graphismes
 
 ## Gameplay
+
+## Modules
