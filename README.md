@@ -53,3 +53,36 @@ Ne ré-upload pas ce guide sur d'autres sites web et/ou ressources, ne prétends
 Ce projet est entièrement gratuit. Pourtant, il me prend une quantité folle de temps à construire et développer - les guides de modding et les autres contenus relatifs au modding m'ont déjà pris plus de 7 000 heures de travail au total. Je vis également en Ukraine pendant l'invasion russe, et je dois soutenir deux familles ainsi que certains de mes amis au front. Le travail supplémentaire que je fais pour soutenir nos défenseurs, les raids aériens et le PTSD causé par la guerre rendent également chaque pouce du travail que je fais plus difficile qu'avant. Plus je me sentirai indépendant et confiant en tant qu'auteur - moins j'aurai de stress et plus de temps libre j'aurai - et donc, les nouvelles mises à jour et vidéos arriveront plus rapidement, et de nouveaux projets apparaîtront également. Mais soutenez uniquement si vous le voulez vraiment et si vous en êtes capable :
 
 [![patreon](https://i.imgur.com/ITQltXC.png)](https://www.patreon.com/SinitarGaming)
+
+## Version du guide actuelle, changelog et mises à jour
+
+Consultez le site officiel : [Skyrim SE Ultimate Modding Guide](https://www.sinitargaming.com/skyrim_se.html)
+
+## Exemple de résultat final (YouTube)
+
+[<img src="https://img.youtube.com/vi/2GKJ1l1xt60/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/watch?v=2GKJ1l1xt60)
+
+## Préparation
+
+![faq](https://i.imgur.com/ptO5bPu.png)
+
+TODO: complete FAQ
+
+### La règle d'or
+
+![must read](https://i.imgur.com/EdnaAuf.jpg)
+
+![how to start](https://i.imgur.com/rivUQAd.png)
+
+<details>
+<summary>CLIQUE ICI</summary>
+
+### Avant de commencer à lire, regarde cette vidéo (YouTube)
+
+[<img src="https://img.youtube.com/vi/0x1G5uN9C6Y/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/watch?v=0x1G5uN9C6Y)
+
+</details>
+
+## Graphismes
+
+## Gameplay
