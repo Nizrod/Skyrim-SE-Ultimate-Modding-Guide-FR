@@ -2,7 +2,7 @@
 
 ## Notes importantes
 
-Salut, je suis Yoan, lanceur du projet de traduction du guide officiel de Sinitar Gaming. Voici le guide original en anglais : [Skyrim SE Ultimate Modding Guide](https://www.sinitargaming.com/skyrim_se.html)
+Salut, c'est un projet de traduction du guide officiel de Sinitar Gaming qui est en anglais : [Skyrim SE Ultimate Modding Guide](https://www.sinitargaming.com/skyrim_se.html)
 
 Certains termes seront utilisés en anglais pour garder une meilleure cohérence et compréhension comme le mot "gameplay".
 
@@ -48,7 +48,7 @@ Ne ré-upload pas ce guide sur d'autres sites web et/ou ressources, ne prétends
 - Listes de mods pré-fabriqués pour différents goûts et objectifs, que vous avez juste à imiter et ne vous inquiétez pas des incompatibilités et autres problèmes - en plus du guide entier lui-même. Le module ultime, [Fatherland Saviour](#), est également disponible.
 - Mises à jour constantes et support :)
 
-### Comment soutenir
+### Comment me soutenir
 
 Ce projet est entièrement gratuit. Pourtant, il me prend une quantité folle de temps à construire et développer - les guides de modding et les autres contenus relatifs au modding m'ont déjà pris plus de 7 000 heures de travail au total. Je vis également en Ukraine pendant l'invasion russe, et je dois soutenir deux familles ainsi que certains de mes amis au front. Le travail supplémentaire que je fais pour soutenir nos défenseurs, les raids aériens et le PTSD causé par la guerre rendent également chaque pouce du travail que je fais plus difficile qu'avant. Plus je me sentirai indépendant et confiant en tant qu'auteur - moins j'aurai de stress et plus de temps libre j'aurai - et donc, les nouvelles mises à jour et vidéos arriveront plus rapidement, et de nouveaux projets apparaîtront également. Mais soutenez uniquement si vous le voulez vraiment et si vous en êtes capable :
 
