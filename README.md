@@ -1,3 +1,7 @@
+<style>
+  span{color:orange;}
+</style>
+
 # Skyrim SE Ultimate Modding Guide - Français
 
 ## Notes importantes
@@ -60,13 +64,15 @@ Consultez le site officiel : [Skyrim SE Ultimate Modding Guide](https://www.sini
 
 ## Exemple de résultat final (YouTube)
 
-[<img src="https://img.youtube.com/vi/2GKJ1l1xt60/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/watch?v=2GKJ1l1xt60)
+<iframe width="787" height="443" src="https://www.youtube.com/embed/2GKJ1l1xt60" title="Vanilla Skyrim SE vs Nextgen Ultra Modded Comparison 2019 | (1440p 60fps)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Préparation
 
 ![faq](https://i.imgur.com/ptO5bPu.png)
 
 TODO: complete FAQ
+
+<span>**1) Télécharger et installer un gestionnaire de mods**</span>
 
 ### La règle d'or
 
@@ -79,7 +85,7 @@ TODO: complete FAQ
 
 ### Avant de commencer à lire, regarde cette vidéo (YouTube)
 
-[<img src="https://img.youtube.com/vi/0x1G5uN9C6Y/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/watch?v=0x1G5uN9C6Y)
+<iframe width="787" height="443" src="https://www.youtube.com/embed/0x1G5uN9C6Y" title="Bethesda Games Modding: Beginners Guide - Basics, Terms &amp; Useful Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
 
